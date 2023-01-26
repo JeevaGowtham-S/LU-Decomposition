@@ -50,8 +50,11 @@ print(U)
 ```
 
 ## Output:
-
-
+![output]
+i)
+![LU1](https://user-images.githubusercontent.com/118042624/214773304-ac4fe490-5301-45ab-a1dc-c2fadd12b327.png)
+ii)
+![LU2](https://user-images.githubusercontent.com/118042624/214773369-5cfa7b73-1102-42d4-a697-e2a110bfd95d.png)
 
 
 ## Result:
