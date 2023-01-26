@@ -50,9 +50,7 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition](/LU1.png)
-![image](https://user-images.githubusercontent.com/118042624/214772414-c1a39993-23ab-4a30-9f3b-17d52ec3b73e.png)
-![lu decomposition](/LU2.png)
+
 
 
 
