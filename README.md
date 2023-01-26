@@ -50,7 +50,6 @@ print(U)
 ```
 
 ## Output:
-![output]
 i)
 ![LU1](https://user-images.githubusercontent.com/118042624/214773304-ac4fe490-5301-45ab-a1dc-c2fadd12b327.png)
 ii)
